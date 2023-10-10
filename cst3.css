@@ -1,0 +1,18 @@
+.container{
+
+    align-items: center;
+}
+
+.card-header{
+background-color: rgb(190, 160, 232);
+}
+.card-body{
+    background-color: rgb(19, 21, 20);
+}
+.card-title{
+    color: aqua;
+
+}
+.card-text{
+    color:aqua;
+}
